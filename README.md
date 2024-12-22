@@ -1,2 +1,4 @@
 # react-adv-gt
-React Pro - Udemy
+React Pro - Udemy 
+
+- Updating and Testing Notes
